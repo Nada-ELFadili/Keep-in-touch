@@ -1,0 +1,33 @@
+{
+  "name": "keep",
+  "version": "1.0.0",
+  "description": "keep in touch app with nodejs express mongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "dev": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nada-ELFadili/Keep-in-touch.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "MongoDB"
+  ],
+  "author": "Nada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nada-ELFadili/Keep-in-touch/issues"
+  },
+  "homepage": "https://github.com/Nada-ELFadili/Keep-in-touch#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4",
+    "nodejs": "^0.0.0",
+    "nodemailer": "^6.5.0"
+  }
+}
