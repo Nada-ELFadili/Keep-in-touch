@@ -15,4 +15,17 @@ Experss.JS
 
 • Send a reply to a message by mail (Send mail)
 
-            Use Postman to check routes and pass requests.
+ Use Postman to check routes and pass requests.
+ 
+ 
+                                                 //////////////////////////////////////////////////////////////////////////
+    Run the Server use :
+
+• npm install
+• nodemon server.js
+• server running on PORT 4000
+      
+      for the postman
+• http://localhost:4000 
+     
+                                               //////////////////////////////////////////////////////////////////////////
